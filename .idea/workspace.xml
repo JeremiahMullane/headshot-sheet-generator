@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edb3bb44-7347-4ad4-9902-812df445612d" name="Default Changelist" comment="" />
+    <list default="true" id="edb3bb44-7347-4ad4-9902-812df445612d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/headshot-sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/headshot-sheet.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

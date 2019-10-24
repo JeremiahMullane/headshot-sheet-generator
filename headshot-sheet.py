@@ -49,6 +49,7 @@ headers = {
     'apikey': '9a5db880-f5d4-11e9-8cea-356e7808d493',
 }
 
+
 # Function that combines HTML blocks with API Search Results to write output HTML file
 def generateHeadshotPage(names, outputFileName):
     f = open((outputFileName + ".html"), "x")
@@ -69,6 +70,7 @@ def generateHeadshotPage(names, outputFileName):
     f.write(htmlpost)   # write ending HTML code block to complete file
     f.close()
 
+
 # Main function - retrieves input parameters from the console
 def main():
     filename = input("Enter your HTML Filename: ")
@@ -85,6 +87,7 @@ def main():
         print("File Generated: " + filename + ".html")
     else:
         print("Cancelled.")
+
 
 # Run main function upon execution
 if __name__ == "__main__":
