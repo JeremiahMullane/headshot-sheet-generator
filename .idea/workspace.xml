@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb3bb44-7347-4ad4-9902-812df445612d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/headshot-sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/headshot-sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571858810780</updated>
     </task>
+    <task id="LOCAL-00001" summary="Improved spacing">
+      <created>1571898756974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571898756974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Improved spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved spacing" />
   </component>
 </project>
