@@ -14,7 +14,7 @@ htmlfwd = """<!DOCTYPE html>
 <body>
     <div class="container">
       <header>
-        <img src="headshot-sheet-logo.jpg" class="logo">
+        <img src="headshot-sheet-logo.gif" class="logo">
       </header>
       <main>
       """
@@ -37,7 +37,7 @@ htmlentryC = """</h2>
 # "htmlpost" = End of final HTML document to be generated
 htmlpost = """</main>
       <footer>
-        <img src="headshot-sheet-logo.jpg" class="logo">
+        <img src="headshot-sheet-logo.gif" class="logo">
       </footer>
     </div>
   </body>

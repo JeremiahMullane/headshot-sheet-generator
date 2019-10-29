@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb3bb44-7347-4ad4-9902-812df445612d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/headshot-sheet-logo.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imaginary Movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Imaginary Movie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sense and Sensibility.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sense and Sensibility.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sunset_Limited_Cast.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sunset_Limited_Cast.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/headshot-sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/headshot-sheet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="headshot-sheet-generator" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,8 +30,11 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ScNEGpDpELMebewa24CPxvmP54" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -129,6 +140,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Improved spacing" />
     <option name="LAST_COMMIT_MESSAGE" value="Improved spacing" />
   </component>
